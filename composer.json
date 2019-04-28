@@ -1,0 +1,19 @@
+{
+    "name": "ppswu/jw",
+    "description": "primer parcial de sw1",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "crosscutt",
+            "email": "crosscutt100@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload-dev": {
+        "psr-4": {
+            "ppswu\\jw\\": "src/"
+        }
+    }
+}
